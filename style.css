@@ -1,0 +1,27 @@
+body {
+    font-size: 15pt;
+    background-color: black;
+}
+
+strong { color:yellow;
+    
+}
+
+h1{
+    font-size: 99pt;
+    color: lawngreen;
+}
+h1{
+    border-radius: 32px;
+    border: solid 36px orange;
+    
+}
+img{
+    width: 99px;
+    height: 99px;
+    border-radius: 33px;
+}
+video{
+    width: 999px;
+    
+}
